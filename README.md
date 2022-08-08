@@ -8,4 +8,4 @@
 # Project Overview
 Job recommendation system is a web app that uses filtering techniques and Natural Language Processing (NLP) to suggest 10 top jobs to user upon entering a specific job/role (and probably other preferences).
 
-## [Use App](https://chemicopy-job-recommender-system-app-483a2m.streamlitapp.com/)
+## [Use App](https://adetolaagbolade1-job-recommender-system-app-sk6uf3.streamlitapp.com/)
